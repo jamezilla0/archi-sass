@@ -1,0 +1,15 @@
+{
+    "name": "bernardsnation/archi-sass",
+    "description": "Quickly pull a nice sleek architecture for sass development.",
+    "require": {
+        "panique/laravel-sass": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Bernard",
+            "email": "jamezilla0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

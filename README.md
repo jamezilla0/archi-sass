@@ -1,8 +1,11 @@
-**Package Author**: James Bernard \
-**Home Page**: https://bernardsnation.com \
+**Package Author**: James Bernard
+
+**Home Page**: https://bernardsnation.com
+
 **Description:** This package is used for quickly pulling a nice sleek architecture for our sass development. All you have to do is use your sass watcher agaisnt styles:css to get started.
 
-**Architecture Author:**  Hugo Giraudel \
+**Architecture Author:**  Hugo Giraudel
+
 **Home Page:** http://www.sitepoint.com/architecture-sass-project/
 
 root/ 
